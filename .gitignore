@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# hgt gitignore
+myHGT/.DS_Store
+myHGT/.idea/
+myHGT/Docker/
+myHGT/OAG/data/
+myHGT/OAG/model_save/
+
+
