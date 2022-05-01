@@ -11,7 +11,7 @@ This is a collaborative effort between data scientists and designers at UT Austi
 Visual notations of the mentorship tree:
 
 <div>
-  <img src="https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/tree_annotation.png" width = "300"><br><br>
+  <img src="https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/tree_annotation.png" width = "400"><br><br>
 </div>
 
 #### Protopytical trees:
