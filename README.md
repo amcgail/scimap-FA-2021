@@ -24,6 +24,7 @@ Visual notations of the mentorship tree:
 - the most male-titled field: (-76.94368361544785, 'neuroscience')
 
 #### Data:
+- [prototypical trees](https://github.com/JialingJia/scimap-FA-2021/tree/main/mentorship/data/proto)
 - [visual metrics](https://github.com/JialingJia/scimap-FA-2021/tree/main/mentorship/visual_metrics)
 - [mentorlist](https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/data/mentoradjacentlist.zip)
 - [menteelist](https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/data/menteeadjacentlist.zip)
