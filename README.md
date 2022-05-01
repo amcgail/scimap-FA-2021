@@ -6,9 +6,10 @@ This is a collaborative effort between data scientists and designers at UT Austi
 
 ***
 
-## Mentorshop updates
+### Mentorshop updates
 
-Annotation of the visual metrics of the mentorship tree:
+Visual notations of the mentorship tree:
+
 <div>
   <img src="https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/tree_annotation.png" width = "300"><br><br>
 </div>
