@@ -23,6 +23,9 @@ Visual notations of the mentorship tree:
 - the most female-titled field: (79.85674230061032, 'nursing')
 - the most male-titled field: (-76.94368361544785, 'neuroscience')
 
+*The most curly tree is found by the largest std of the tree curvature.*
+*The most female/male-tilted field is found based on the average radius of trees among the selected fields.*
+
 #### Data:
 - [prototypical trees](https://github.com/JialingJia/scimap-FA-2021/tree/main/mentorship/data/proto)
 - [visual metrics](https://github.com/JialingJia/scimap-FA-2021/tree/main/mentorship/visual_metrics)
