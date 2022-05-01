@@ -6,7 +6,7 @@ This is a collaborative effort between data scientists and designers at UT Austi
 
 ***
 
-### Mentorshop updates
+### Mentorship updates
 
 Visual notations of the mentorship tree:
 
@@ -14,7 +14,7 @@ Visual notations of the mentorship tree:
   <img src="https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/tree_annotation.png" width = "400"><br><br>
 </div>
 
-#### Protopytical trees:
+#### Prototypical trees:
 - [the widest tree: (9.701843627652826, 'FRANCIS  GALTON')](https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/prototypical%20tree/widest%20tree.svg)
 - [the tallest tree: (10.852614925574684, 'HANS-CHRISTOPH  NOTHDURFT')](https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/prototypical%20tree/tallest%20tree.svg)
 - [the most female-titled tree: (60.61795796428965, 'DONALD  REIFF')](https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/prototypical%20tree/female-tilted%20tree.svg)
