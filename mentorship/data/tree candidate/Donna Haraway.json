@@ -5,7 +5,7 @@
     "researcharea":[
         "literature"
     ],
-    "children_num":20,
+    "children_num":17,
     "children":[
         {
             "name":"KAREN A DEVRIES",
@@ -158,38 +158,7 @@
             "researcharea":[
                 "math"
             ],
-            "children_num":3,
-            "children":[
-                {
-                    "name":"JAMES DYLAN REES",
-                    "gender":"man",
-                    "gender_color":"blue",
-                    "researcharea":[
-                        "microbiology"
-                    ],
-                    "children_num":1,
-                    "children":[
-                        {
-                            "name":"KENNETH  ROSE",
-                            "gender":"man",
-                            "gender_color":"blue",
-                            "researcharea":[
-                                "microbiology"
-                            ],
-                            "children_num":0
-                        }
-                    ]
-                },
-                {
-                    "name":"JOHN F DRAZAN",
-                    "gender":"man",
-                    "gender_color":"blue",
-                    "researcharea":[
-                        "biomech"
-                    ],
-                    "children_num":0
-                }
-            ]
+            "children_num":0
         }
     ]
 }

@@ -1,0 +1,573 @@
+{
+    "name":"SEBALD  RAU",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":[
+        "theology",
+        "ling"
+    ],
+    "children_num":58,
+    "children":[
+        {
+            "name":"HERMAN  ROYAARDS",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":[
+                "theology"
+            ],
+            "children_num":57,
+            "children":[
+                {
+                    "name":"NICOLAAS CHRISTIAAN KIST",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":[
+                        "theology",
+                        "hist"
+                    ],
+                    "children_num":56,
+                    "children":[
+                        {
+                            "name":"NICOLAAS  BEETS",
+                            "gender":"man",
+                            "gender_color":"blue",
+                            "researcharea":[
+                                "theology",
+                                "ling"
+                            ],
+                            "children_num":0
+                        },
+                        {
+                            "name":"WILLEM  MOLL",
+                            "gender":"man",
+                            "gender_color":"blue",
+                            "researcharea":[
+                                "theology",
+                                "hist"
+                            ],
+                            "children_num":53,
+                            "children":[
+                                {
+                                    "name":"JOHANNES GERHARDUS RIJK ACQUOY",
+                                    "gender":"man",
+                                    "gender_color":"blue",
+                                    "researcharea":[
+                                        "theology",
+                                        "hist"
+                                    ],
+                                    "children_num":52,
+                                    "children":[
+                                        {
+                                            "name":"FREDRIK  PIJPER",
+                                            "gender":"man",
+                                            "gender_color":"blue",
+                                            "researcharea":[
+                                                "theology",
+                                                "hist"
+                                            ],
+                                            "children_num":51,
+                                            "children":[
+                                                {
+                                                    "name":"JOHANNES  LINDEBOOM",
+                                                    "gender":"man",
+                                                    "gender_color":"blue",
+                                                    "researcharea":[
+                                                        "theology",
+                                                        "ling"
+                                                    ],
+                                                    "children_num":47,
+                                                    "children":[
+                                                        {
+                                                            "name":"MAARTEN  VAN RHIJN",
+                                                            "gender":"man",
+                                                            "gender_color":"blue",
+                                                            "researcharea":[
+                                                                "theology"
+                                                            ],
+                                                            "children_num":46,
+                                                            "children":[
+                                                                {
+                                                                    "name":"HEIKO AUGUSTINUS OBERMAN",
+                                                                    "gender":"man",
+                                                                    "gender_color":"blue",
+                                                                    "researcharea":[
+                                                                        "theology",
+                                                                        "hist"
+                                                                    ],
+                                                                    "children_num":45,
+                                                                    "children":[
+                                                                        {
+                                                                            "name":"BRAD  GREGORY",
+                                                                            "gender":"man",
+                                                                            "gender_color":"blue",
+                                                                            "researcharea":[
+                                                                                "hist"
+                                                                            ],
+                                                                            "children_num":5,
+                                                                            "children":[
+                                                                                {
+                                                                                    "name":"ELEANOR  PETTUS",
+                                                                                    "gender":"woman",
+                                                                                    "gender_color":"red",
+                                                                                    "researcharea":[
+                                                                                        "hist"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"JOHN W MCCORMACK",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "hist"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"MICHAEL  KELLY",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "hist"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"CHRISTOPHER  LANE",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "hist"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"ADAM  DUKER",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "hist"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name":"STEVEN E OZMENT",
+                                                                            "gender":"man",
+                                                                            "gender_color":"blue",
+                                                                            "researcharea":[
+                                                                                "theology"
+                                                                            ],
+                                                                            "children_num":15,
+                                                                            "children":[
+                                                                                {
+                                                                                    "name":"LAURA A LISY-WAGNER",
+                                                                                    "gender":"woman",
+                                                                                    "gender_color":"red",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"CHRISTOPHER BOYD BROWN",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"RONALD  RITTGERS",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"CARLOS  EIRE",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "hist"
+                                                                                    ],
+                                                                                    "children":[
+                                                                                        {
+                                                                                            "name":"MARY C VENABLES",
+                                                                                            "gender":"woman",
+                                                                                            "gender_color":"red",
+                                                                                            "researcharea":[
+                                                                                                "hist"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"ALISA A PLANT",
+                                                                                            "gender":"woman",
+                                                                                            "gender_color":"red",
+                                                                                            "researcharea":[
+                                                                                                "hist"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"JENNIFER R OTTMAN",
+                                                                                            "gender":"woman",
+                                                                                            "gender_color":"red",
+                                                                                            "researcharea":[
+                                                                                                "hist"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"ERIN G DOLIAS",
+                                                                                            "gender":"woman",
+                                                                                            "gender_color":"red",
+                                                                                            "researcharea":[
+                                                                                                "hist"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"BRONWEN C MCSHEA",
+                                                                                            "gender":"woman",
+                                                                                            "gender_color":"red",
+                                                                                            "researcharea":[
+                                                                                                "hist"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"KRISTEN A FAIREY",
+                                                                                            "gender":"woman",
+                                                                                            "gender_color":"red",
+                                                                                            "researcharea":[
+                                                                                                "hist"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"EMILY D MICHELSON",
+                                                                                            "gender":"woman",
+                                                                                            "gender_color":"red",
+                                                                                            "researcharea":[
+                                                                                                "hist"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"EARLE A HAVENS",
+                                                                                            "gender":"man",
+                                                                                            "gender_color":"blue",
+                                                                                            "researcharea":[
+                                                                                                "hist"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"DARREN M PROVOST",
+                                                                                            "gender":"man",
+                                                                                            "gender_color":"blue",
+                                                                                            "researcharea":[
+                                                                                                "hist"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        }
+                                                                                    ],
+                                                                                    "children_num":9
+                                                                                },
+                                                                                {
+                                                                                    "name":"MATTHEW D LUNDIN",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"ADAM G BEAVER",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name":"JOHN M FRYMIRE",
+                                                                            "gender":"man",
+                                                                            "gender_color":"blue",
+                                                                            "researcharea":[
+                                                                                "theology"
+                                                                            ],
+                                                                            "children_num":0
+                                                                        },
+                                                                        {
+                                                                            "name":"JONATHAN A REID",
+                                                                            "gender":"man",
+                                                                            "gender_color":"blue",
+                                                                            "researcharea":[
+                                                                                "theology"
+                                                                            ],
+                                                                            "children_num":0
+                                                                        },
+                                                                        {
+                                                                            "name":"DAVID C STEINMETZ",
+                                                                            "gender":"man",
+                                                                            "gender_color":"blue",
+                                                                            "researcharea":[
+                                                                                "theology"
+                                                                            ],
+                                                                            "children_num":20,
+                                                                            "children":[
+                                                                                {
+                                                                                    "name":"SUSAN E SCHREINER",
+                                                                                    "gender":"woman",
+                                                                                    "gender_color":"red",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children":[
+                                                                                        {
+                                                                                            "name":"ELIZABETH A PALMER",
+                                                                                            "gender":"woman",
+                                                                                            "gender_color":"red",
+                                                                                            "researcharea":[
+                                                                                                "theology"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"MAURA  CAMPANELLI",
+                                                                                            "gender":"woman",
+                                                                                            "gender_color":"red",
+                                                                                            "researcharea":[
+                                                                                                "theology"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"KAREN P KOENIG",
+                                                                                            "gender":"woman",
+                                                                                            "gender_color":"red",
+                                                                                            "researcharea":[
+                                                                                                "theology"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"MARCUS R KUNZ",
+                                                                                            "gender":"man",
+                                                                                            "gender_color":"blue",
+                                                                                            "researcharea":[
+                                                                                                "theology"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"JOHN M FREYMANN",
+                                                                                            "gender":"man",
+                                                                                            "gender_color":"blue",
+                                                                                            "researcharea":[
+                                                                                                "theology"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"ADAM W DARLAGE",
+                                                                                            "gender":"man",
+                                                                                            "gender_color":"blue",
+                                                                                            "researcharea":[
+                                                                                                "theology"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"VINCENT M EVENER",
+                                                                                            "gender":"man",
+                                                                                            "gender_color":"blue",
+                                                                                            "researcharea":[
+                                                                                                "theology"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        }
+                                                                                    ],
+                                                                                    "children_num":7
+                                                                                },
+                                                                                {
+                                                                                    "name":"ESTHER  CHUNG-KIM",
+                                                                                    "gender":"woman",
+                                                                                    "gender_color":"red",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"DEBORAH K MARCUSE",
+                                                                                    "gender":"woman",
+                                                                                    "gender_color":"red",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"BETH N KREITZER",
+                                                                                    "gender":"woman",
+                                                                                    "gender_color":"red",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"EDWIN R TAIT",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"DAVID C FINK",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"MICKEY L MATTOX",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children":[
+                                                                                        {
+                                                                                            "name":"CHARLES L CORTRIGHT",
+                                                                                            "gender":"man",
+                                                                                            "gender_color":"blue",
+                                                                                            "researcharea":[
+                                                                                                "theology"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"DAVID J LUY",
+                                                                                            "gender":"man",
+                                                                                            "gender_color":"blue",
+                                                                                            "researcharea":[
+                                                                                                "theology"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        },
+                                                                                        {
+                                                                                            "name":"MICHAEL J MATOSSIAN",
+                                                                                            "gender":"man",
+                                                                                            "gender_color":"blue",
+                                                                                            "researcharea":[
+                                                                                                "theology"
+                                                                                            ],
+                                                                                            "children_num":0
+                                                                                        }
+                                                                                    ],
+                                                                                    "children_num":3
+                                                                                },
+                                                                                {
+                                                                                    "name":"RICHARD A MULLER",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"LYLE D BIERMA",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                },
+                                                                                {
+                                                                                    "name":"JOHN L THOMPSON",
+                                                                                    "gender":"man",
+                                                                                    "gender_color":"blue",
+                                                                                    "researcharea":[
+                                                                                        "theology"
+                                                                                    ],
+                                                                                    "children_num":0
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name":"JAN NICOLAAS BAKHUIZEN VAN DEN BRINK",
+                                                    "gender":"man",
+                                                    "gender_color":"blue",
+                                                    "researcharea":[
+                                                        "theology",
+                                                        "hist"
+                                                    ],
+                                                    "children_num":2,
+                                                    "children":[
+                                                        {
+                                                            "name":"HENDRIKUS  BERKHOF",
+                                                            "gender":"man",
+                                                            "gender_color":"blue",
+                                                            "researcharea":[
+                                                                "theology"
+                                                            ],
+                                                            "children_num":0
+                                                        },
+                                                        {
+                                                            "name":"HANS G H M POSTHUMUS MEYJES",
+                                                            "gender":"man",
+                                                            "gender_color":"blue",
+                                                            "researcharea":[
+                                                                "theology",
+                                                                "hist"
+                                                            ],
+                                                            "children_num":0
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name":"JAN  VAN GILSE",
+                            "gender":"man",
+                            "gender_color":"blue",
+                            "researcharea":[
+                                "theology"
+                            ],
+                            "children_num":0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
