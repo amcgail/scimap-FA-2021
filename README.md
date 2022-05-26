@@ -15,11 +15,11 @@ Visual notations of the mentorship tree:
 </div>
 
 #### Prototypical trees:
-- [the widest tree: (9.701843627652826, 'FRANCIS  GALTON')](https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/prototypical%20tree/widest%20tree.svg)
-- [the tallest tree: (10.852614925574684, 'HANS-CHRISTOPH  NOTHDURFT')](https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/prototypical%20tree/tallest%20tree.svg)
-- [the most female-tilted tree: (60.61795796428965, 'DONALD  REIFF')](https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/prototypical%20tree/female-tilted%20tree.svg)
-- [the most male-tilted tree: (-19.21884287410335, 'JOHANNES  PAGUS')](https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/prototypical%20tree/male-tilted%20tree.svg)
-- [the most curly tree: (0.1926502395325615, 'JOHANN CHRISTIAN POLYKARP ERXLEBEN')](https://github.com/JialingJia/scimap-FA-2021/blob/main/mentorship/prototypical%20tree/curly%20tree.svg)
+- the widest tree: (9.513573121515911, 'FRANCIS GALTON')
+- the tallest tree: (9.442344726411353, 'FRANCIS GALTON')
+- the most female-tilted tree: (60.61795796428965, 'DONALD REIFF')female-tilted%20tree.svg)
+- the most male-tilted tree: (-19.1015703851541, 'SEBALD RAU')
+- the most curly tree: (0.1975998995944304, 'CHRISTIAN GOTTFRIED DANIEL NEES VON ESENBECK')
 - the most female-tilted field: (79.85674230061032, 'nursing')
 - the most male-tilted field: (-76.94368361544785, 'neuroscience')
 
