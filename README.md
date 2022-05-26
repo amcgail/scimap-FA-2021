@@ -17,7 +17,7 @@ Visual notations of the mentorship tree:
 #### Prototypical trees:
 - the widest tree: (9.513573121515911, 'FRANCIS GALTON')
 - the tallest tree: (9.442344726411353, 'FRANCIS GALTON')
-- the most female-tilted tree: (60.61795796428965, 'DONALD REIFF')female-tilted%20tree.svg)
+- the most female-tilted tree: (60.61795796428965, 'DONALD REIFF')
 - the most male-tilted tree: (-19.1015703851541, 'SEBALD RAU')
 - the most curly tree: (0.1975998995944304, 'CHRISTIAN GOTTFRIED DANIEL NEES VON ESENBECK')
 - the most female-tilted field: (79.85674230061032, 'nursing')
