@@ -6,7 +6,7 @@
         "chemistry",
         "cellbio"
     ],
-    "children_num":69,
+    "children_num":98,
     "children":[
         {
             "name":"REBECCA L HANNA",
@@ -33,7 +33,7 @@
             "researcharea":[
                 "chemistry"
             ],
-            "children_num":5,
+            "children_num":10,
             "children":[
                 {
                     "name":"GINNY  NGUYEN",
@@ -63,6 +63,33 @@
                     "children_num":0
                 },
                 {
+                    "name":"CHAOYOU  XUE",
+                    "gender":"unknown",
+                    "gender_color":"grey",
+                    "researcharea":[
+                        "chemistry"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"COURTNEY  DAVIS-VOGEL",
+                    "gender":"unknown",
+                    "gender_color":"grey",
+                    "researcharea":[
+                        "chemistry"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"HAYUN  LEE",
+                    "gender":"unknown",
+                    "gender_color":"grey",
+                    "researcharea":[
+                        "chemistry"
+                    ],
+                    "children_num":0
+                },
+                {
                     "name":"JOHN  BROGIE",
                     "gender":"man",
                     "gender_color":"blue",
@@ -72,9 +99,27 @@
                     "children_num":0
                 },
                 {
+                    "name":"YUKTI  DHINGRA",
+                    "gender":"unknown",
+                    "gender_color":"grey",
+                    "researcharea":[
+                        "chemistry"
+                    ],
+                    "children_num":0
+                },
+                {
                     "name":"MICHAEL  SCHELLING",
                     "gender":"man",
                     "gender_color":"blue",
+                    "researcharea":[
+                        "chemistry"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"SHRAVANTI  SURESH",
+                    "gender":"unknown",
+                    "gender_color":"grey",
                     "researcharea":[
                         "chemistry"
                     ],
@@ -134,7 +179,18 @@
             "researcharea":[
                 "chemistry"
             ],
-            "children_num":0
+            "children_num":1,
+            "children":[
+                {
+                    "name":"PARITOSH  GANGARAMANI",
+                    "gender":"unknown",
+                    "gender_color":"grey",
+                    "researcharea":[
+                        "chemistry"
+                    ],
+                    "children_num":0
+                }
+            ]
         },
         {
             "name":"KATRIN  KARBSTEIN",
@@ -220,6 +276,15 @@
             "children_num":0
         },
         {
+            "name":"FAI YIU SIU",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "chemistry"
+            ],
+            "children_num":0
+        },
+        {
             "name":"GLEN M BORCHERT",
             "gender":"man",
             "gender_color":"blue",
@@ -238,13 +303,31 @@
             "children_num":0
         },
         {
+            "name":"EUIYOUNG  BAE",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "chemistry"
+            ],
+            "children_num":0
+        },
+        {
+            "name":"BUNPOTE  SIRIDECHADILOK",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "chemistry"
+            ],
+            "children_num":0
+        },
+        {
             "name":"JEFFREY SCOTT KIEFT",
             "gender":"man",
             "gender_color":"blue",
             "researcharea":[
                 "cellbio"
             ],
-            "children_num":4,
+            "children_num":5,
             "children":[
                 {
                     "name":"MEGAN E FILBIN",
@@ -281,6 +364,15 @@
                         "cellbio"
                     ],
                     "children_num":0
+                },
+                {
+                    "name":"TERRA-DAWN M PLANK",
+                    "gender":"unknown",
+                    "gender_color":"grey",
+                    "researcharea":[
+                        "cellbio"
+                    ],
+                    "children_num":0
                 }
             ]
         },
@@ -301,6 +393,26 @@
                 "cellbio"
             ],
             "children_num":0
+        },
+        {
+            "name":"AILONG  KE",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "chemistry"
+            ],
+            "children_num":1,
+            "children":[
+                {
+                    "name":"CHANGRUI  LU",
+                    "gender":"unknown",
+                    "gender_color":"grey",
+                    "researcharea":[
+                        "chemistry"
+                    ],
+                    "children_num":0
+                }
+            ]
         },
         {
             "name":"ANDREW A MEHLE",
@@ -330,9 +442,27 @@
             "children_num":0
         },
         {
+            "name":"LAN  ZHANG",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "chemistry"
+            ],
+            "children_num":0
+        },
+        {
             "name":"IAN J MACRAE",
             "gender":"man",
             "gender_color":"blue",
+            "researcharea":[
+                "chemistry"
+            ],
+            "children_num":0
+        },
+        {
+            "name":"NA  PI",
+            "gender":"unknown",
+            "gender_color":"grey",
             "researcharea":[
                 "chemistry"
             ],
@@ -395,13 +525,115 @@
             ]
         },
         {
+            "name":"JAMIE H D CATE",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "cellbio"
+            ],
+            "children_num":9,
+            "children":[
+                {
+                    "name":"PADMA R GUNDA",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":[
+                        "cellbio"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"VERONICA  ZEPEDA",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":[
+                        "cellbio"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"CHRISTINA L SHENVI",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":[
+                        "cellbio"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"AUDRONE  LAPINAITE",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":[
+                        "plantbio"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"VEYSEL  BERK",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":[
+                        "cellbio"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"ALBERT A LIAU",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":[
+                        "cellbio"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"RAJ D PAI",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":[
+                        "cellbio"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"JACK A DUNKLE",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":[
+                        "cellbio",
+                        "chemistry"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"JONATHAN M GALAZKA",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":[
+                        "cellbio"
+                    ],
+                    "children_num":0
+                }
+            ]
+        },
+        {
+            "name":"HARIDHA  SHIVRAM",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "chemistry"
+            ],
+            "children_num":0
+        },
+        {
             "name":"ROBERT TODD BATEY",
             "gender":"man",
             "gender_color":"blue",
             "researcharea":[
                 "chemistry"
             ],
-            "children_num":10,
+            "children_num":11,
             "children":[
                 {
                     "name":"REBECCA  MONTANGE",
@@ -434,6 +666,15 @@
                     "name":"JOHN W HARDIN",
                     "gender":"man",
                     "gender_color":"blue",
+                    "researcharea":[
+                        "neuro"
+                    ],
+                    "children_num":0
+                },
+                {
+                    "name":"SUNNY D GILBERT",
+                    "gender":"unknown",
+                    "gender_color":"grey",
                     "researcharea":[
                         "neuro"
                     ],
@@ -552,6 +793,15 @@
             "children_num":0
         },
         {
+            "name":"RYUYA  FUKUNAGA",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "chemistry"
+            ],
+            "children_num":0
+        },
+        {
             "name":"PETER L ADAMS",
             "gender":"man",
             "gender_color":"blue",
@@ -585,7 +835,7 @@
             "researcharea":[
                 "chemistry"
             ],
-            "children_num":4,
+            "children_num":5,
             "children":[
                 {
                     "name":"MONA  OUMAIS",
@@ -615,6 +865,15 @@
                     "children_num":0
                 },
                 {
+                    "name":"CHIU-HO  WEBB",
+                    "gender":"unknown",
+                    "gender_color":"grey",
+                    "researcharea":[
+                        "chemistry"
+                    ],
+                    "children_num":0
+                },
+                {
                     "name":"NATHAN  RICCITELLI",
                     "gender":"man",
                     "gender_color":"blue",
@@ -624,6 +883,15 @@
                     "children_num":0
                 }
             ]
+        },
+        {
+            "name":"YUN  BAI",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "chemistry"
+            ],
+            "children_num":0
         },
         {
             "name":"STEPHEN  WILSON",

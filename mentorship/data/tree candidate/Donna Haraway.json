@@ -5,7 +5,7 @@
     "researcharea":[
         "literature"
     ],
-    "children_num":17,
+    "children_num":20,
     "children":[
         {
             "name":"KAREN A DEVRIES",
@@ -134,6 +134,15 @@
             "children_num":0
         },
         {
+            "name":"KRIS  WELLER",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "literature"
+            ],
+            "children_num":0
+        },
+        {
             "name":"JOSHUA  LABARE",
             "gender":"man",
             "gender_color":"blue",
@@ -152,13 +161,33 @@
             "children_num":0
         },
         {
+            "name":"LINDSEY  COLLINS",
+            "gender":"unknown",
+            "gender_color":"grey",
+            "researcharea":[
+                "literature"
+            ],
+            "children_num":0
+        },
+        {
             "name":"RON  EGLASH",
             "gender":"man",
             "gender_color":"blue",
             "researcharea":[
                 "math"
             ],
-            "children_num":0
+            "children_num":1,
+            "children":[
+                {
+                    "name":"TOLUWALOGO B ODUMOSU",
+                    "gender":"unknown",
+                    "gender_color":"grey",
+                    "researcharea":[
+                        "math"
+                    ],
+                    "children_num":0
+                }
+            ]
         }
     ]
 }
