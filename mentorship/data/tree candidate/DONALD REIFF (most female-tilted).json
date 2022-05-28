@@ -5,7 +5,7 @@
     "researcharea":[
         "ling"
     ],
-    "children_num":26,
+    "children_num":27,
     "children":[
         {
             "name":"ADRIENNE  LEHRER",
@@ -14,7 +14,7 @@
             "researcharea":[
                 "ling"
             ],
-            "children_num":25,
+            "children_num":26,
             "children":[
                 {
                     "name":"BONNIBETH B FONSECA-GREBER",
@@ -41,7 +41,7 @@
                     "researcharea":[
                         "ling"
                     ],
-                    "children_num":22,
+                    "children_num":23,
                     "children":[
                         {
                             "name":"POLLY  SZATROWSKI",
@@ -248,6 +248,15 @@
                             "name":"MARIA  DEL TESO CRAVIOTTO",
                             "gender":"woman",
                             "gender_color":"red",
+                            "researcharea":[
+                                "ling"
+                            ],
+                            "children_num":0
+                        },
+                        {
+                            "name":"WHITNEY A POSTMAN",
+                            "gender":"unknown",
+                            "gender_color":"grey",
                             "researcharea":[
                                 "ling"
                             ],

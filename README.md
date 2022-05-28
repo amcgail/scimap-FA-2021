@@ -15,13 +15,13 @@ Visual notations of the mentorship tree:
 </div>
 
 #### Prototypical trees:
-- the widest tree: (9.513573121515911, 'FRANCIS GALTON')
-- the tallest tree: (9.442344726411353, 'FRANCIS GALTON')
-- the most female-tilted tree: (60.61795796428965, 'DONALD REIFF')
-- the most male-tilted tree: (-19.1015703851541, 'SEBALD RAU')
-- the most curly tree: (0.1975998995944304, 'CHRISTIAN GOTTFRIED DANIEL NEES VON ESENBECK')
-- the most female-tilted field: (79.85674230061032, 'nursing')
-- the most male-tilted field: (-76.94368361544785, 'neuroscience')
+- the widest tree:  (10.84370884074345, 'FRANCIS  GALTON')
+- the tallest tree:  (10.620291828681957, 'FRANCIS  GALTON')
+- the most female-titled tree:  (60.84252082792544, 'DONALD  REIFF')
+- the most male-titled tree:  (-15.215656495718171, 'JOHANN  MULLER')
+- the most curly tree:  (0.1975998995944304, 'CHRISTIAN GOTTFRIED DANIEL NEES VON ESENBECK')
+- the most female-titled field:  (81.00434839960268, 'nursing')
+- the most male-titled field:  (-77.39956268935319, 'history')
 
 *The most curly tree is found by the largest std of the tree curvature.*
 *The most female/male-tilted field is found based on the average radius of trees among the selected fields.*
